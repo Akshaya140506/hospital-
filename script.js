@@ -1,0 +1,1 @@
+alert("Hospital Management System Loaded");
